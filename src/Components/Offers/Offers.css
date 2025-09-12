@@ -13,7 +13,8 @@
     background: linear-gradient(180deg,#fde1ff 0%,#e1ffea22 60%);
 }
 .exclusive-image{
-    height: 380px;
+    height: 400px;
+    width: 60%;
 }
 .offers-left{
     flex: 1;
@@ -23,12 +24,12 @@
 }
 .offers-left h1{
     color: #171717;
-    font-size: 60px;
+    font-size: 63px;
     font-weight: 600;
 }
 .offers-left p{
     color: #171717;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 600;
 }
 .offers-left button{
@@ -48,5 +49,5 @@
      display: flex;
      align-items: center;
      justify-content: flex-end;
-     /* padding-top: 50px; */
+     padding-top: 35px;
 }
