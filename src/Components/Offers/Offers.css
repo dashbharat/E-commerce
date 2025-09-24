@@ -62,9 +62,9 @@
 @media (max-width: 1024px) {
   .offers {
     width: 90%;
-    height: 50vh;
+    height: 400px;
     padding: 0px 50px;
-    margin-bottom: 80px;
+    margin-bottom: 5px;
   }
 
   .offers-left h1 {
